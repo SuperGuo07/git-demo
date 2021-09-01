@@ -14,4 +14,4 @@ hello guo! hello git!
 hello guo! hello git!
 hello guo! hello git!
 hello guo! hello git!
-hello guo! hello git!
+hello guo! hello git! hot-fix test
